@@ -1,0 +1,2 @@
+# CidQuLauncher
+CidQu Game Launcher
